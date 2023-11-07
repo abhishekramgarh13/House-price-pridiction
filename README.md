@@ -98,7 +98,7 @@ python run_deployment.py
 
 ## 🕹 Demo Streamlit App
 
-There is a live demo of this project using [Streamlit](https://streamlit.io/) which you can find [here](). It takes some input features for the product and predicts the customer satisfaction rate using the latest trained models. If you want to run this Streamlit app in your local system, you can run the following command:-
+There is a live demo of this project using [Streamlit](https://streamlit.io/) which you can find [here](https://house-price-pridiction.streamlit.app/). It takes some input features for the product and predicts the customer satisfaction rate using the latest trained models. If you want to run this Streamlit app in your local system, you can run the following command:-
 
 ```bash
 streamlit run streamlit_app.py
